@@ -1,6 +1,6 @@
 # Data Structures And Algorithms Specialization
 
-This repository contains the solutions for the assignments of the Data Structures and Algorithms Specialization in Coursera :  https://www.coursera.org/specializations/data-structures-algorithms
+This repository contains the solutions coded in Java for the assignments of the Data Structures and Algorithms Specialization in Coursera :  https://www.coursera.org/specializations/data-structures-algorithms
 
 This specialization is divided in 6 courses. This repo contains the solution for the assignment problems for each course 
 
